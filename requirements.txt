@@ -1,0 +1,14 @@
+# GeoLatent runtime dependencies
+# Pin ranges are intentionally permissive to minimise Colab/Kaggle conflicts.
+
+numpy>=1.23.0
+scipy>=1.9.0
+scikit-learn>=1.1.0
+plotly>=5.13.0
+
+# Optional — required only for UMAP projection
+# umap-learn>=0.5.3
+
+# Optional — accelerated rendering in notebooks
+# kaleido>=0.2.1      # static image export (PNG/SVG)
+# nbformat>=5.7.0     # Jupyter notebook support
