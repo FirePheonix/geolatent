@@ -1,0 +1,28 @@
+/* GeoLatent docs custom styles */
+
+:root {
+    --pst-color-primary: #58a6ff;
+    --pst-color-secondary: #3fb950;
+}
+
+/* Wider content area */
+.bd-main .bd-content .bd-article-container {
+    max-width: 900px;
+}
+
+/* Code blocks */
+div.highlight pre {
+    border-left: 3px solid var(--pst-color-primary);
+}
+
+/* API parameter tables */
+.field-list dt {
+    font-family: var(--pst-font-family-monospace);
+    color: var(--pst-color-primary);
+}
+
+/* Badges in tutorials index */
+img[alt="Open In Colab"] {
+    vertical-align: middle;
+    margin-left: 8px;
+}
