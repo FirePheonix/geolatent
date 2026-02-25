@@ -1,10 +1,17 @@
+<div align="center">
+
 # GeoLatent
 
 **Geometry-aware, model-intelligent 3-D visualisations for machine learning workflows.**
 
+[![PyPI](https://img.shields.io/pypi/v/geolatent?color=blue&label=PyPI)](https://pypi.org/project/geolatent/)
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Plotly](https://img.shields.io/badge/rendering-Plotly-3F4F75.svg)](https://plotly.com)
+[![Docs](https://img.shields.io/readthedocs/geolatent?label=docs)](https://geolatent.readthedocs.io)
+[![GitHub stars](https://img.shields.io/github/stars/FirePheonix/geolatent?style=social)](https://github.com/FirePheonix/geolatent)
+
+</div>
 
 ---
 
