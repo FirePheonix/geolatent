@@ -1,8 +1,8 @@
 <div align="center">
 
 # GeoLatent
-
 **Geometry-aware, model-intelligent 3-D visualisations for machine learning workflows.**
+
 
 [![PyPI](https://img.shields.io/pypi/v/geolatent?color=blue&label=PyPI)](https://pypi.org/project/geolatent/)
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://python.org)
@@ -10,6 +10,15 @@
 [![Plotly](https://img.shields.io/badge/rendering-Plotly-3F4F75.svg)](https://plotly.com)
 [![Docs](https://img.shields.io/readthedocs/geolatent?label=docs)](https://geolatent.readthedocs.io)
 [![GitHub stars](https://img.shields.io/github/stars/FirePheonix/geolatent?style=social)](https://github.com/FirePheonix/geolatent)
+
+---
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0f155b90-ac94-46c5-9b3b-41fa5974f58f" width="23%" />
+  <img src="https://github.com/user-attachments/assets/5022663a-e23c-4ec6-b0bc-1c7815687801" width="23%" />
+  <img src="https://github.com/user-attachments/assets/a7691e2d-0fe8-4f77-9517-29e76e5ed2a0" width="23%" />
+  <img src="https://github.com/user-attachments/assets/2f368ce2-651a-40e9-920b-fb1b5b739af9" width="23%" />
+</div>
 
 </div>
 
@@ -272,3 +281,4 @@ If geolatent contributes to published research, please acknowledge it:
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
